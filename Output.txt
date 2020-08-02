@@ -1,4 +1,10 @@
 File contains output for each assignment in order
+Corresponding inputs for given output :
+Assign1 = No input required.
+Assign2 = No input required.
+Assign3 = No input required.
+Assign4 = 21 for number of sticks, 1 for Computer vs Computer.
+
 
 Assignment 1 :
 
